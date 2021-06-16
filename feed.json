@@ -1,0 +1,28 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Jim Mitchell",
+	"icon": "https://micro.blog/jimmitchell/avatar.jpg",
+	"home_page_url": "http://jimmitchell.org/",
+	"feed_url": "http://jimmitchell.org/feed.json",
+	"items": [
+		
+			{
+				"id": "http://jimmitchell.micro.blog/2021/06/16/the-little-church.html",
+				
+				"content_html": "<p>The little church my wife and I were married in nearly 30 years ago.</p>\n\n<p><img src=\"uploads/2021/65ab1c543a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The little church my wife and I were married in nearly 30 years ago.\n\n<img src=\"uploads/2021/65ab1c543a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-06-16T14:49:35-07:00",
+				"url": "http://jimmitchell.org/2021/06/16/the-little-church.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2021/06/16/realizing-that-i.html",
+				
+				"content_html": "<p>Realizing that I still need somewhere to post my thoughts, so giving micro.blog another spin. Hello world.</p>\n",
+				"content_text": "Realizing that I still need somewhere to post my thoughts, so giving micro.blog another spin. Hello world.\n",
+				"date_published": "2021-06-16T14:41:00-07:00",
+				"url": "http://jimmitchell.org/2021/06/16/realizing-that-i.html",
+				"tags": ["Thoughts"]
+			}
+	]
+}
